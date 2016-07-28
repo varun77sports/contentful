@@ -1,0 +1,11 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "heroku nodejs deployment",
+  "main": "server.js",
+  "scripts": {
+      "start":"node server.js"
+  },
+  "author": "Varun",
+  "license": "ISC"
+}
